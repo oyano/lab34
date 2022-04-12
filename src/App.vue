@@ -93,7 +93,7 @@ img{
 .text:after{
   content: '';
   position: absolute;
-  transform: translate(-100px, 24px);
+  transform: translate(-74px,18px);
   width: 0%;
   height: 2px;
   background: #42b983;
@@ -102,7 +102,7 @@ img{
 .text:hover:after{
   content: '';
   position: absolute;
-  transform: translate(-100px, 24px);
+  transform: translate(-74px,18px);
   width: 100%;
   height: 2px;
   background: #42b983;
